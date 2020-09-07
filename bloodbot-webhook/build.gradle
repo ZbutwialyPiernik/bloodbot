@@ -1,0 +1,44 @@
+
+plugins {
+    id 'java'
+}
+
+group 'webhook'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    implementation project(":bloodbot-entity")
+
+    compileOnly 'org.projectlombok:lombok:1.18.8'
+    annotationProcessor 'org.projectlombok:lombok:1.18.8'
+
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.12.0'
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.12.0'
+
+    implementation 'com.squareup.retrofit2:retrofit:2.5.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
+
+    implementation group: 'org.xerial', name: 'sqlite-jdbc', version: '3.7.2'
+    implementation group: 'org.hibernate', name: 'hibernate-java8', version: '5.4.4.Final'
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '5.1.6'
+
+    implementation group: 'javax.validation', name: 'validation-api', version: '2.0.1.Final'
+    implementation group: 'org.hibernate.validator', name: 'hibernate-validator', version: '6.1.0.Final'
+    implementation group: 'org.apache.commons', name: 'commons-collections4', version: '4.1'
+
+    implementation files('libs/discord-webhooks-0.1.6-all.jar')
+    implementation group: 'com.rabbitmq', name: 'amqp-client', version: '5.8.0'
+
+    // Tests
+
+    testImplementation 'org.mockito:mockito-core:3.0.0'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.3.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.3.1'
+}

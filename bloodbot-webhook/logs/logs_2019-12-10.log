@@ -1,0 +1,107 @@
+[DEBUG] 2019-12-10 23:59:04,076 logging.logProvider() - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[INFO ] 2019-12-10 23:59:04,080 Version.<clinit>() - HV000001: Hibernate Validator 6.1.0.Final
+[INFO ] 2019-12-10 23:59:04,080 Version.<clinit>() - HV000001: Hibernate Validator 6.1.0.Final
+[INFO ] 2019-12-10 23:59:04,358 Version.logVersion() - HHH000412: Hibernate Core {5.4.4.Final}
+[INFO ] 2019-12-10 23:59:04,358 Version.logVersion() - HHH000412: Hibernate Core {5.4.4.Final}
+[INFO ] 2019-12-10 23:59:04,683 Version.<clinit>() - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2019-12-10 23:59:04,683 Version.<clinit>() - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[WARN ] 2019-12-10 23:59:04,783 pooling.configure() - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+[WARN ] 2019-12-10 23:59:04,783 pooling.configure() - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+[INFO ] 2019-12-10 23:59:04,787 pooling.buildCreator() - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/albion_bot]
+[INFO ] 2019-12-10 23:59:04,787 pooling.buildCreator() - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/albion_bot]
+[INFO ] 2019-12-10 23:59:04,788 pooling.buildCreator() - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 2019-12-10 23:59:04,788 pooling.buildCreator() - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 2019-12-10 23:59:04,788 pooling.buildCreator() - HHH10001003: Autocommit mode: false
+[INFO ] 2019-12-10 23:59:04,788 pooling.buildCreator() - HHH10001003: Autocommit mode: false
+[INFO ] 2019-12-10 23:59:04,791 DriverManagerConnectionProviderImpl.<init>() - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO ] 2019-12-10 23:59:04,791 DriverManagerConnectionProviderImpl.<init>() - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO ] 2019-12-10 23:59:04,971 Dialect.<init>() - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[INFO ] 2019-12-10 23:59:04,971 Dialect.<init>() - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[WARN ] 2019-12-10 23:59:05,130 JsonLanguageRepository.findNotTranslatedPhrases() - Translation for key: yes is missing in language PL
+[WARN ] 2019-12-10 23:59:05,130 JsonLanguageRepository.findNotTranslatedPhrases() - Translation for key: no is missing in language PL
+[WARN ] 2019-12-10 23:59:05,130 JsonLanguageRepository.findNotTranslatedPhrases() - Translation for key: membershipGuilds is missing in language PL
+[WARN ] 2019-12-10 23:59:05,131 JsonLanguageRepository.findNotTranslatedPhrases() - Translation for key: membershipAlliances is missing in language PL
+[WARN ] 2019-12-10 23:59:05,136 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,136 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,143 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,143 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,143 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,143 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,144 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,144 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,144 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,144 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,145 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-10 23:59:05,145 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[INFO ] 2019-12-10 23:59:05,566 JtaPlatformInitiator.initiateService() - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2019-12-10 23:59:05,566 JtaPlatformInitiator.initiateService() - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[DEBUG] 2019-12-10 23:59:05,699 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-10 23:59:06,571 WebhookConverter.convertToEntityAttribute() - https://discordapp.com/api/webhooks/653747897665323008/XiBWGqhWgNugaZEfvjkoFY0EBDPtmOwy0LqO0Wmsb-r2RrjHZmHC8RLcldouBjWIyBPl
+[DEBUG] 2019-12-10 23:59:06,584 WebhookConverter.convertToEntityAttribute() - https://discordapp.com/api/v7/webhooks/653747897665323008/XiBWGqhWgNugaZEfvjkoFY0EBDPtmOwy0LqO0Wmsb-r2RrjHZmHC8RLcldouBjWIyBPl?wait=true
+[ERROR] 2019-12-10 23:59:06,585 ScheduledEventService.lambda$notifyListeners$0() - Unhandled exception in listener
+java.lang.IllegalArgumentException: Failed to parse webhook URL: https://discordapp.com/api/v7/webhooks/653747897665323008/XiBWGqhWgNugaZEfvjkoFY0EBDPtmOwy0LqO0Wmsb-r2RrjHZmHC8RLcldouBjWIyBPl?wait=true
+	at com.zbutwialypiernik.bloodbot.entity.WebhookConverter.convertToEntityAttribute(WebhookConverter.java:39) ~[main/:?]
+	at com.zbutwialypiernik.bloodbot.entity.WebhookConverter.convertToEntityAttribute(WebhookConverter.java:18) ~[main/:?]
+	at org.hibernate.metamodel.model.convert.internal.JpaAttributeConverterImpl.toDomainValue(JpaAttributeConverterImpl.java:45) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.type.descriptor.converter.AttributeConverterMutabilityPlanImpl.deepCopyNotNull(AttributeConverterMutabilityPlanImpl.java:33) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.type.descriptor.java.MutableMutabilityPlan.deepCopy(MutableMutabilityPlan.java:35) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.type.AbstractStandardBasicType.deepCopy(AbstractStandardBasicType.java:308) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.type.AbstractStandardBasicType.deepCopy(AbstractStandardBasicType.java:304) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.type.TypeHelper.deepCopy(TypeHelper.java:55) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.engine.internal.TwoPhaseLoad.doInitializeEntity(TwoPhaseLoad.java:330) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.engine.internal.TwoPhaseLoad.initializeEntity(TwoPhaseLoad.java:160) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.loader.Loader.initializeEntitiesAndCollections(Loader.java:1179) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.loader.Loader.processResultSet(Loader.java:1028) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.loader.Loader.doQuery(Loader.java:964) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:354) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2810) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2792) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2624) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.loader.Loader.list(Loader.java:2619) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:396) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1547) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1557) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1525) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:165) ~[hibernate-core-5.4.4.Final.jar:5.4.4.Final]
+	at com.zbutwialypiernik.bloodbot.repository.webhook.KillboardFilterRepository.getAll(KillboardFilterRepository.java:17) ~[main/:?]
+	at com.zbutwialypiernik.bloodbot.service.killboard.KillboardNotifier.onEvent(KillboardNotifier.java:67) ~[main/:?]
+	at com.zbutwialypiernik.bloodbot.service.killboard.KillboardNotifier.onEvent(KillboardNotifier.java:19) ~[main/:?]
+	at com.zbutwialypiernik.bloodbot.service.ScheduledEventService.lambda$notifyListeners$0(ScheduledEventService.java:33) ~[main/:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1540) ~[?:?]
+	at com.zbutwialypiernik.bloodbot.service.ScheduledEventService.notifyListeners(ScheduledEventService.java:31) ~[main/:?]
+	at com.zbutwialypiernik.bloodbot.service.killboard.KillboardService.lambda$onTick$0(KillboardService.java:48) ~[main/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[DEBUG] 2019-12-10 23:59:06,653 DiscIconRepository.getItemIcon() - Caching new image T6_HEAD_CLOTH_KEEPER@1
+[DEBUG] 2019-12-10 23:59:07,315 DiscIconRepository.getItemIcon() - Caching new image T5_ARMOR_CLOTH_SET1@2
+[DEBUG] 2019-12-10 23:59:07,840 DiscIconRepository.getItemIcon() - Caching new image T5_MAIN_MACE_HELL@1
+[DEBUG] 2019-12-10 23:59:08,338 DiscIconRepository.getItemIcon() - Caching new image T4_HEAD_PLATE_SET2@2
+[DEBUG] 2019-12-10 23:59:08,851 DiscIconRepository.getItemIcon() - Caching new image T6_OFF_TOWERSHIELD_UNDEAD@1
+[DEBUG] 2019-12-10 23:59:09,500 DiscIconRepository.getItemIcon() - Caching new image T4_ARMOR_PLATE_KEEPER@2
+[DEBUG] 2019-12-10 23:59:10,056 DiscIconRepository.getItemIcon() - Caching new image T6_SHOES_PLATE_KEEPER
+[DEBUG] 2019-12-10 23:59:10,709 DiscIconRepository.getItemIcon() - Caching new image T6_2H_DIVINESTAFF@1
+[DEBUG] 2019-12-10 23:59:11,367 DiscIconRepository.getItemIcon() - Caching new image T5_HEAD_CLOTH_SET2@1
+[DEBUG] 2019-12-10 23:59:12,218 DiscIconRepository.getItemIcon() - Caching new image T8_HEAD_PLATE_SET3
+[DEBUG] 2019-12-10 23:59:12,924 DiscIconRepository.getItemIcon() - Caching new image T6_SHOES_PLATE_UNDEAD@2
+[DEBUG] 2019-12-10 23:59:13,950 DiscIconRepository.getItemIcon() - Caching new image T4_2H_TWINSCYTHE_HELL@2
+[DEBUG] 2019-12-10 23:59:14,578 DiscIconRepository.getItemIcon() - Caching new image T7_CAPE
+[DEBUG] 2019-12-10 23:59:15,195 DiscIconRepository.getItemIcon() - Caching new image T8_ARMOR_LEATHER_SET3
+[DEBUG] 2019-12-10 23:59:15,761 DiscIconRepository.getItemIcon() - Caching new image T8_SHOES_LEATHER_SET2@1
+[DEBUG] 2019-12-10 23:59:16,229 DiscIconRepository.getItemIcon() - Caching new image T6_CAPEITEM_FW_THETFORD@2
+[DEBUG] 2019-12-10 23:59:16,776 DiscIconRepository.getItemIcon() - Caching new image T5_HEAD_PLATE_SET2@1
+[DEBUG] 2019-12-10 23:59:19,304 DiscIconRepository.getItemIcon() - Caching new image T7_OFF_SHIELD@1
+[DEBUG] 2019-12-10 23:59:19,853 DiscIconRepository.getItemIcon() - Caching new image T4_2H_DUALSWORD@1
+[DEBUG] 2019-12-10 23:59:20,350 DiscIconRepository.getItemIcon() - Caching new image T4_HEAD_PLATE_SET3@1
+[DEBUG] 2019-12-10 23:59:24,296 DiscIconRepository.getItemIcon() - Caching new image T6_MAIN_FROSTSTAFF_KEEPER@1
+[DEBUG] 2019-12-10 23:59:24,801 DiscIconRepository.getItemIcon() - Caching new image T6_SHOES_CLOTH_KEEPER@1
+[DEBUG] 2019-12-10 23:59:26,342 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[INFO ] 2019-12-10 23:59:35,700 BattleboardService.lambda$onTick$0() - Refreshing Battleboard
+[DEBUG] 2019-12-10 23:59:35,705 BattleboardService.lambda$onTick$0() - Unhandled exception
+[ERROR] 2019-12-10 23:59:35,705 BattleboardService.lambda$onTick$0() - java.lang.IllegalArgumentException: Unable to create converter for java.util.List<com.zbutwialypiernik.bloodbot.entity.albion.AlbionBattle>
+    for method AlbionApi.getRecentBattles

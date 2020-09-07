@@ -1,0 +1,4 @@
+rootProject.name = 'bloodbot-publisher'
+
+include ":bloodbot-entity"
+project(":bloodbot-entity").projectDir = file("../bloodbot-entity")

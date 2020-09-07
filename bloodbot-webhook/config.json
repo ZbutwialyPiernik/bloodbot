@@ -1,0 +1,25 @@
+{
+  "discordConfig": {
+    "name": null,
+    "iconUrl": null,
+    "siteUrl": null
+  },
+  "battleServiceConfig": {
+    "initDelay": 30,
+    "intervalDelay": 90,
+    "pageSize": 50,
+    "pageScanCount": 2,
+    "pageIntervalDelay": 1.0
+  },
+  "killServiceConfig": {
+    "initDelay": 0,
+    "intervalDelay": 45,
+    "pageScanCount": 4,
+    "pageSize": 50,
+    "pageIntervalDelay": 1.0
+  },
+  "membershipServiceConfig": {
+    "initDelay": 60,
+    "intervalDelay": 1800
+  }
+}

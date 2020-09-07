@@ -1,0 +1,83 @@
+[DEBUG] 2019-12-28 01:44:54,140 logging.logProvider() - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[INFO ] 2019-12-28 01:44:54,143 Version.<clinit>() - HV000001: Hibernate Validator 6.1.0.Final
+[INFO ] 2019-12-28 01:44:54,143 Version.<clinit>() - HV000001: Hibernate Validator 6.1.0.Final
+[INFO ] 2019-12-28 01:44:54,426 Version.logVersion() - HHH000412: Hibernate Core {5.4.4.Final}
+[INFO ] 2019-12-28 01:44:54,426 Version.logVersion() - HHH000412: Hibernate Core {5.4.4.Final}
+[INFO ] 2019-12-28 01:44:54,755 Version.<clinit>() - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2019-12-28 01:44:54,755 Version.<clinit>() - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[WARN ] 2019-12-28 01:44:54,858 pooling.configure() - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+[WARN ] 2019-12-28 01:44:54,858 pooling.configure() - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+[INFO ] 2019-12-28 01:44:54,862 pooling.buildCreator() - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/albion_bot]
+[INFO ] 2019-12-28 01:44:54,862 pooling.buildCreator() - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/albion_bot]
+[INFO ] 2019-12-28 01:44:54,863 pooling.buildCreator() - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 2019-12-28 01:44:54,863 pooling.buildCreator() - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 2019-12-28 01:44:54,863 pooling.buildCreator() - HHH10001003: Autocommit mode: false
+[INFO ] 2019-12-28 01:44:54,863 pooling.buildCreator() - HHH10001003: Autocommit mode: false
+[INFO ] 2019-12-28 01:44:54,866 DriverManagerConnectionProviderImpl.<init>() - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO ] 2019-12-28 01:44:54,866 DriverManagerConnectionProviderImpl.<init>() - HHH000115: Hibernate connection pool size: 20 (min=1)
+[INFO ] 2019-12-28 01:44:55,050 Dialect.<init>() - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[INFO ] 2019-12-28 01:44:55,050 Dialect.<init>() - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[WARN ] 2019-12-28 01:44:55,212 JsonLanguageRepository.findNotTranslatedPhrases() - Translation for key: yes is missing in language PL
+[WARN ] 2019-12-28 01:44:55,212 JsonLanguageRepository.findNotTranslatedPhrases() - Translation for key: no is missing in language PL
+[WARN ] 2019-12-28 01:44:55,213 JsonLanguageRepository.findNotTranslatedPhrases() - Translation for key: membershipGuilds is missing in language PL
+[WARN ] 2019-12-28 01:44:55,213 JsonLanguageRepository.findNotTranslatedPhrases() - Translation for key: membershipAlliances is missing in language PL
+[WARN ] 2019-12-28 01:44:55,220 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-28 01:44:55,220 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-28 01:44:55,226 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-28 01:44:55,226 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-28 01:44:55,227 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-28 01:44:55,227 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class com.zbutwialypiernik.bloodbot.entity.translation.Language] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-28 01:44:55,227 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[WARN ] 2019-12-28 01:44:55,227 JavaTypeDescriptorRegistry.checkEqualsAndHashCode() - HHH000481: Encountered Java type [class club.minnced.discord.webhook.WebhookClient] for which we could not locate a JavaTypeDescriptor and which does not appear to implement equals and/or hashCode.  This can lead to significant performance problems when performing equality/dirty checking involving this Java type.  Consider registering a custom JavaTypeDescriptor or at least implementing equals/hashCode.
+[INFO ] 2019-12-28 01:44:55,649 JtaPlatformInitiator.initiateService() - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2019-12-28 01:44:55,649 JtaPlatformInitiator.initiateService() - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[DEBUG] 2019-12-28 01:44:55,792 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:45:00,540 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[INFO ] 2019-12-28 01:45:25,792 BattleboardService.lambda$onTick$0() - Refreshing Battleboard
+[DEBUG] 2019-12-28 01:45:25,795 BattleboardService.lambda$onTick$0() - Unhandled exception
+[ERROR] 2019-12-28 01:45:25,796 BattleboardService.lambda$onTick$0() - java.lang.IllegalArgumentException: Unable to create converter for java.util.List<com.zbutwialypiernik.bloodbot.entity.albion.AlbionBattle>
+    for method AlbionApi.getRecentBattles
+[DEBUG] 2019-12-28 01:45:45,541 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:45:51,689 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[DEBUG] 2019-12-28 01:46:36,689 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:46:40,831 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[INFO ] 2019-12-28 01:46:55,797 BattleboardService.lambda$onTick$0() - Refreshing Battleboard
+[DEBUG] 2019-12-28 01:46:55,797 BattleboardService.lambda$onTick$0() - Unhandled exception
+[ERROR] 2019-12-28 01:46:55,798 BattleboardService.lambda$onTick$0() - java.lang.IllegalArgumentException: Unable to create converter for java.util.List<com.zbutwialypiernik.bloodbot.entity.albion.AlbionBattle>
+    for method AlbionApi.getRecentBattles
+[DEBUG] 2019-12-28 01:47:25,832 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:47:31,801 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[DEBUG] 2019-12-28 01:48:16,802 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:48:20,947 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[INFO ] 2019-12-28 01:48:25,799 BattleboardService.lambda$onTick$0() - Refreshing Battleboard
+[DEBUG] 2019-12-28 01:48:25,799 BattleboardService.lambda$onTick$0() - Unhandled exception
+[ERROR] 2019-12-28 01:48:25,800 BattleboardService.lambda$onTick$0() - java.lang.IllegalArgumentException: Unable to create converter for java.util.List<com.zbutwialypiernik.bloodbot.entity.albion.AlbionBattle>
+    for method AlbionApi.getRecentBattles
+[DEBUG] 2019-12-28 01:49:05,948 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:49:12,756 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[INFO ] 2019-12-28 01:49:55,801 BattleboardService.lambda$onTick$0() - Refreshing Battleboard
+[DEBUG] 2019-12-28 01:49:55,801 BattleboardService.lambda$onTick$0() - Unhandled exception
+[ERROR] 2019-12-28 01:49:55,802 BattleboardService.lambda$onTick$0() - java.lang.IllegalArgumentException: Unable to create converter for java.util.List<com.zbutwialypiernik.bloodbot.entity.albion.AlbionBattle>
+    for method AlbionApi.getRecentBattles
+[DEBUG] 2019-12-28 01:49:57,756 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:50:01,889 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[DEBUG] 2019-12-28 01:50:46,890 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:50:47,891 DiscIconRepository.getItemIcon() - Caching new image T5_2H_BOW_KEEPER@2
+[DEBUG] 2019-12-28 01:50:48,951 DiscIconRepository.getItemIcon() - Caching new image T6_SHOES_CLOTH_SET2
+[DEBUG] 2019-12-28 01:50:49,606 DiscIconRepository.getItemIcon() - Caching new image T6_CAPEITEM_FW_LYMHURST@1
+[DEBUG] 2019-12-28 01:50:50,478 DiscIconRepository.getItemIcon() - Caching new image T4_2H_BOW_KEEPER@3
+[DEBUG] 2019-12-28 01:51:02,099 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[INFO ] 2019-12-28 01:51:25,802 BattleboardService.lambda$onTick$0() - Refreshing Battleboard
+[DEBUG] 2019-12-28 01:51:25,802 BattleboardService.lambda$onTick$0() - Unhandled exception
+[ERROR] 2019-12-28 01:51:25,803 BattleboardService.lambda$onTick$0() - java.lang.IllegalArgumentException: Unable to create converter for java.util.List<com.zbutwialypiernik.bloodbot.entity.albion.AlbionBattle>
+    for method AlbionApi.getRecentBattles
+[DEBUG] 2019-12-28 01:51:47,100 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:51:51,718 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[DEBUG] 2019-12-28 01:52:36,719 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:52:45,780 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
+[INFO ] 2019-12-28 01:52:55,804 BattleboardService.lambda$onTick$0() - Refreshing Battleboard
+[DEBUG] 2019-12-28 01:52:55,804 BattleboardService.lambda$onTick$0() - Unhandled exception
+[ERROR] 2019-12-28 01:52:55,805 BattleboardService.lambda$onTick$0() - java.lang.IllegalArgumentException: Unable to create converter for java.util.List<com.zbutwialypiernik.bloodbot.entity.albion.AlbionBattle>
+    for method AlbionApi.getRecentBattles
+[DEBUG] 2019-12-28 01:53:30,781 KillboardService.lambda$onTick$0() - Refreshing Killboard
+[DEBUG] 2019-12-28 01:53:35,383 KillboardService.lambda$onTick$0() - Refreshing Killboard Finished
