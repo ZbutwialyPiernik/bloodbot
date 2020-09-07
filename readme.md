@@ -33,14 +33,14 @@ The bot was configured by commands on discord, it was possible to translate it t
 ![Death](./screenshots/death.PNG)
 
 - **Battle** - messgae with battle and links to the participating guilds and alliances. It had a picture in the corner with the number of players that was visible, with various programs.  
--- **4+ player with light green color**
--- **10+ player with green color**
--- **20+ player with yellow**
--- **50+ player with orange**
--- **100+ player with red**
+  - **4+ player with light green color**
+  - **10+ player with green color**
+  - **20+ player with yellow**
+  - **50+ player with orange**
+  - **100+ player with red**
 
 ![Battle](./screenshots/battle.PNG)
 
 - **Commands** - list of avaliable commands
 
-![Commands](./screenshots/commands.PNG)
+![Commands](./screenshots/command.PNG)
