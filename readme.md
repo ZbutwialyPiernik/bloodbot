@@ -21,13 +21,13 @@ The bot was configured by commands on discord, it was possible to translate it t
 ## Screenshots
 
 - **Setting up** - the setup was quite simple intuitive, you can watch the kills by player name, guild or alliance. Then through reactions you can control the rest of the process and only display deaths, kills and from a certain fame level.
-![Setting up](/screenshots/setting_up.png)
+![Setting up](./screenshots/setting_up.PNG)
 
 - **Kill** - message with the player's inventory, green in color.
-![Kill](/screenshots/kill.png)
+![Kill](./screenshots/kill.PNG)
 
 - **Death** - message with the player's inventory, green in red.
-![Death](/screenshots/death.png)
+![Death](./screenshots/death.PNG)
 
 - **Battle** - messgae with battle and links to the participating guilds and alliances. It had a picture in the corner with the number of players that was visible, with various programs.  
 -- **4+ player with light green color**
@@ -35,7 +35,7 @@ The bot was configured by commands on discord, it was possible to translate it t
 -- **20+ player with yellow**
 -- **50+ player with orange**
 -- **100+ player with red**
-![Battle](/screenshots/battle.png)
+![Battle](./screenshots/battle.PNG)
 
 - **Commands** - list of avaliable commands
-![Commands](/screenshots/commands.png)
+![Commands](./screenshots/commands.PNG)
