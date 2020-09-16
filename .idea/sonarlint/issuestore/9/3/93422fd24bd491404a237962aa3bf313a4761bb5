@@ -1,13 +1,0 @@
-
-`
-java:S1192"KDefine a constant instead of duplicating this literal " for user " 4 times.(¼÷ÿ
-E
-java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ
-I
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
-`
-java:S1128"ERemove this unused import 'java.util.concurrent.CopyOnWriteArraySet'.(Üñí¡úÿÿÿÿ
-X
-java:S1128"BRemove this unused import 'net.dv8tion.jda.core.entities.Message'.(Þöºâ
-k
-java:S1128"URemove this unused import 'net.dv8tion.jda.core.events.message.MessageReceivedEvent'.(ïç§€

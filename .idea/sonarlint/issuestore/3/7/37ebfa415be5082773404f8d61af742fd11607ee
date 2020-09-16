@@ -1,7 +1,0 @@
-
-P
-java:S11413"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
-m
-java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ò¹ïÃýÿÿÿÿ
-\
-java:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

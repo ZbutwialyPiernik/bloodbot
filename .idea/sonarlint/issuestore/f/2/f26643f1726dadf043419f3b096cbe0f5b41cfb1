@@ -1,9 +1,0 @@
-
-P
-java:S1128"5Remove this unused import 'com.rabbitmq.client.AMQP'.(È†úşÿÿÿÿÿ
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Îşñ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(×™Ûó
-I
-java:S1068".Remove this unused "connection" private field.(·ãÛöûÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(ø·Éíıÿÿÿÿ
