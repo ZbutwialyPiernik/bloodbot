@@ -1,0 +1,8 @@
+
+a
+java:S1301("KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•
+s
+java:S1128"]Remove this unused import 'com.zbutwialypiernik.bloodbot.exception.InvalidArgumentException'.(ÿùÌ¤
+t
+java:S1128"YRemove this unused import 'com.zbutwialypiernik.bloodbot.command.util.MessageFormatting'.(³«­åøÿÿÿÿ
+7	java:S131(""Add a default case to this switch.(ÜŸ•

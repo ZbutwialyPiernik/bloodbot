@@ -1,0 +1,37 @@
+
+L
+java:S1068"1Remove this unused "discordConfig" private field.(ÊÇ®Šûÿÿÿÿ
+M
+java:S1068"7Remove this unused "battleServiceConfig" private field.(˜ÿÄ¦
+K
+java:S1068"5Remove this unused "killServiceConfig" private field.(œÍÀç
+S
+java:S1068"8Remove this unused "imageGeneratorConfig" private field.(†ó”±üÿÿÿÿ
+F
+java:S1068""+Remove this unused "iconUrl" private field.(ƒ… ±ùÿÿÿÿ
+A
+java:S1068$"+Remove this unused "siteUrl" private field.(°ÃÒ
+G
+java:S1068b",Remove this unused "iconSize" private field.(§æôÉùÿÿÿÿ
+J
+java:S1068d"/Remove this unused "bagPosition" private field.(¸ßÇ‰ıÿÿÿÿ
+F
+java:S1068f"0Remove this unused "headPosition" private field.(ºùãÔ
+K
+java:S1068h"0Remove this unused "capePosition" private field.(·ŞšÁüÿÿÿÿ
+J
+java:S1068j"4Remove this unused "mainHandPosition" private field.(›ƒƒ›
+L
+java:S1068l"1Remove this unused "armorPosition" private field.(Éğ¹²ûÿÿÿÿ
+N
+java:S1068n"3Remove this unused "offhandPosition" private field.(€¿à£úÿÿÿÿ
+F
+java:S1068p"0Remove this unused "foodPosition" private field.(Ó¥âÃ
+L
+java:S1068r"1Remove this unused "shoesPosition" private field.(ÉÅ®åşÿÿÿÿ
+M
+java:S1068t"2Remove this unused "potionPosition" private field.(ÔÎåìùÿÿÿÿ
+L
+java:S1068v"1Remove this unused "mountPosition" private field.(ºÃãóøÿÿÿÿ
+M
+java:S1068x"2Remove this unused "backgroundPath" private field.(Ç‹‘šıÿÿÿÿ

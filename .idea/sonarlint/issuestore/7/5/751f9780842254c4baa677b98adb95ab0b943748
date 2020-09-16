@@ -1,0 +1,10 @@
+
+f
+java:S1301v"KReplace this "switch" statement by "if" statements to increase readability.(¯®÷Úûÿÿÿÿ
+g
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ıø’r
+S
+java:S1854x"=Remove this useless assignment to local variable "!unknown!".(û•â
+T
+java:S1854„"=Remove this useless assignment to local variable "!unknown!".(°è›¼
+<	java:S131v""Add a default case to this switch.(¯®÷Úûÿÿÿÿ

@@ -1,0 +1,14 @@
+
+]
+java:S1128"HRemove this unused import 'club.minnced.discord.webhook.WebhookCluster'.(ÿıÄ
+f
+java:S1301,"KReplace this "switch" statement by "if" statements to increase readability.(¯®÷Úûÿÿÿÿ
+]
+java:S1128"GRemove this unused import 'club.minnced.discord.webhook.WebhookClient'.(½‡»Ô
+h
+java:S1128"MRemove this unused import 'club.minnced.discord.webhook.send.WebhookMessage'.(´õˆ´úÿÿÿÿ
+j
+java:S1128"TRemove this unused import 'club.minnced.discord.webhook.send.WebhookMessageBuilder'.(±íø
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+<	java:S131,""Add a default case to this switch.(¯®÷Úûÿÿÿÿ
